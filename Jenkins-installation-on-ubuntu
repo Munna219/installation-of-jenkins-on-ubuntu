@@ -10,3 +10,4 @@ sudo ufw allow 8080/tcp
 sudo ufw reload
 After installation just copy the ip address of instance and paste on URL bar of your browserlike : <ip>:8080
 now you are done.
+Make sure your TCP port range should be 8080 for example custom TCP TCP 8080 0.0.0.0
